@@ -1,0 +1,11 @@
+{
+  "csv_filename" : "/home/user/data.json",
+  "sqlite3_db" : "mydb.db",
+  "table_name" : "mydb",
+  "delimiter" : ",",
+  "column_names" : [
+    ["id", "int(11)"],
+    ["value", "varchar(255)"],
+    ["date", "datetime"]
+  ]
+}
